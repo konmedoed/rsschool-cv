@@ -1,6 +1,6 @@
 # **Kirill Kostin**
 ### Junior frontend developer
-*здесь будет фото*
+![photo](IMG_8612.jpg "Me")
 ## Contacts
 e-mail: konmedoed@gmail.com
 
@@ -53,4 +53,6 @@ function multiply(a, b){
 *03.2023 - Present.* Trening "JavaScript/Front-end"
 
 ## Languages
-English - Pre-Intermediate (B1)
+English - Pre-Intermediate/Intermediate (B1)
+
+Russian - Native
