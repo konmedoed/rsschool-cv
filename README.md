@@ -1,2 +1,4 @@
 # rsschool-cv
 https://konmedoed.github.io/rsschool-cv/cv
+
+https://konmedoed.github.io/rsschool-cv/
