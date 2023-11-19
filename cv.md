@@ -38,7 +38,7 @@ function multiply(a, b){
    + [by 05.19.2022](https://github.com/konmedoed/test-task-19.05 'by 05.19.2022'). I used HTML, Sass, JS, React and Redux.
    + [by 06.20.2022](https://github.com/konmedoed/Test-task-by-06.20.2022 'by 06.20.2022'). I used HTML, Sass, JS and React.
    + [by 06.30.2022](https://github.com/konmedoed/test-task-by-06.30.2022 'by 06.30.2022'). I used HTML, Scss, JS and React.
-4. A task from RSSchool called "cssBayan" - [cssBayan](https://github.com/konmedoed/cssBayan 'cssBayan'). I used only HTML and Css (without JS!).
+4. A task from RSSchool - [cssBayan](https://github.com/konmedoed/cssBayan 'cssBayan'). I used only HTML and Css (without JS!).
 
 ## Education
 #### Bachelor of technics and technologies. 
