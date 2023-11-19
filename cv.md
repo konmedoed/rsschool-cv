@@ -1,5 +1,7 @@
 # **Kirill Kostin**
 ### Junior frontend developer
+![my photo](myPhoto.jpg 'Kirill Kostin')
+
 ## Contacts
 e-mail: konmedoed@gmail.com
 
